@@ -1,6 +1,6 @@
 ![Hackerrank Logo](Hackerrank_Logo.webp)
-# Hackerrank-SQL-Challenges
-Solutions for a few of the Hackerranks' SQL topic challenges
+# SQL Problems & Solutions
+Solutions for a few of the Hackerranks' SQL topic challenges that can be found [here](https://www.hackerrank.com/domains/sql)
 
 - [15 Days of Learning SQL](15_Days_of_Learning_SQL.ipynb)
 - [Challenges](Challenges.ipynb)
