@@ -1,12 +1,11 @@
+![Hackerrank Logo](Hackerrank_Logo.webp)
 # Hackerrank-SQL-Challenges
 Solutions for a few of the Hackerranks' SQL topic challenges
 
-### [All Problems & Solutions](Hackerrank_SQL-Challenges.ipynb)
-
-SQL Files
-- [Challenges](https://github.com/Tareqhaboukh/Hackerrank-SQL-Challenges/blob/main/Challenges.sql)
-- [Contest leaderboard](https://github.com/Tareqhaboukh/Hackerrank-SQL-Challenges/blob/main/Contest%20leaderboard.sql)
-- [New Company](https://github.com/Tareqhaboukh/Hackerrank-SQL-Challenges/blob/main/New%20Company.sql)
-- [Occupations](https://github.com/Tareqhaboukh/Hackerrank-SQL-Challenges/blob/main/Occupations.sql)
-- [Placements](https://github.com/Tareqhaboukh/Hackerrank-SQL-Challenges/blob/main/Placements.sql)
-- [Top Competitors](https://github.com/Tareqhaboukh/Hackerrank-SQL-Challenges/blob/main/Top%20Competitors.sql)
+- [15 Days of Learning SQL](15_Days_of_Learning_SQL.ipynb)
+- [Challenges](Challenges.ipynb)
+- [New Companies](New_Companies.ipynb)
+- [Top Competitors](Top_Competitors.ipynb)
+- [Contest Leaderboard](Contest_Leaderboard.ipynb)
+- [Occupations](Occupations.ipynb)
+- [Placements](Placements.ipynb)
