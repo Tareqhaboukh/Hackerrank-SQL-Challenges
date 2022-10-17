@@ -1,7 +1,7 @@
 # Hackerrank-SQL-Challenges
 Solutions for a few of the Hackerranks' SQL topic challenges
 
-### [All Problems & Solutions](/Hackerrank-SQL-Challenges)
+### [All Problems & Solutions](Hackerrank_SQL-Challenges.ipynb)
 
 SQL Files
 - [Challenges](https://github.com/Tareqhaboukh/Hackerrank-SQL-Challenges/blob/main/Challenges.sql)
