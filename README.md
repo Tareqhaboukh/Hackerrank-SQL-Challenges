@@ -7,5 +7,6 @@ Solutions for a few of the Hackerranks' SQL topic challenges that can be found [
 - [New Companies](New_Companies.ipynb)
 - [Top Competitors](Top_Competitors.ipynb)
 - [Contest Leaderboard](Contest_Leaderboard.ipynb)
+- [SQL Project Planning](SQL_Project_Planning.ipynb)
 - [Occupations](Occupations.ipynb)
 - [Placements](Placements.ipynb)
